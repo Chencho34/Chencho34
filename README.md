@@ -2,7 +2,15 @@
   # Hello <br /> Im <span className='text-secondary'>Armando</span>
   ## Front-End Web Developer
   ### ¡Hola! Soy Armando, un desarrollo web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
- 
+
+# Last projects.
+
+## [Shopping Cart App](https://cart-shopping-app.netlify.app/) 
+Shopping Cart is a minimalist website with a shopping cart experience. Add to cart easily with an attractive design and manage your items without complications.
+### Made with:
+* React + Vite + TypeScript: UI library for rapid development and TypeScript for more secure and maintainable development.
+* Redux + Redux Toolkit: To manage the global state of the application, especially for the shopping cart.
+* React Router: To handle navigation between different pages and routes of the application.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-cr) 
