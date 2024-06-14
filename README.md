@@ -2,7 +2,7 @@
 ### Front-End Web Developer
 Desarrollador web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
 
-# Experiencia Laboral
+# 🖥️ Experiencia Laboral:
 
 ### Freelance Developer:
 He trabajado como desarrollador independiente con 3 años de experiencia en el emocionante mundo del desarrollo web. He desarrollado proyectos desde su concepción inicial hasta su implementación, utilizando tecnologías modernas y siguiendo las mejores prácticas para cumplir con los objetivos y las necesidades del cliente.
@@ -14,7 +14,7 @@ He trabajado como desarrollador independiente con 3 años de experiencia en el e
 * Tecnologías: Next JS, TailwindCSS, Flowbite, Framer Motion, Java, Spring Boot, SQL.
 * Resultado: Proyecto exitoso al cumplir con los requisitos del cliente, resultando en una plataforma funcional y atractiva. Fortaleció considerablemente mi dominio en el uso de Next JS y la integración de tecnologías front-end y back-end.
 
-# Proyectos Personales.
+# 📖 Proyectos Personales:
 
 ### [Shopping Cart App](https://cart-shopping-app.netlify.app/) 
 Shopping Cart es una aplicacion web minimalista con una experiencia e-comerce. Añade al carrito fácilmente con un diseño atractivo y gestiona tus artículos sin complicaciones.
