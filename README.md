@@ -22,7 +22,13 @@ Shopping Cart es una aplicacion web minimalista con una experiencia e-comerce. A
 * React + Vite + TypeScript: Biblioteca de interfaz de usuario para un desarrollo rápido y TypeScript para un desarrollo más seguro y fácil de mantener.
 * Redux + Redux Toolkit: Para gestionar el estado global de la aplicación, especialmente para el carrito de compras.
 * React Router: Para manejar la navegación entre diferentes páginas y rutas de la aplicación.
-* TailwindCss: Framework CSS para la estilización de paginas web.
+* TailwindCSS: Framework CSS para la estilización de paginas web.
+
+### [Landing Page KTM](https://github.com/Chencho34/ktm-web-page)
+Este proyecto se basa en el concepto de diseño inspirado en la página web oficial de KTM. Presenta una interfaz minimalista y moderna.
+#### Hecho con:
+* HTML5 (semantico): Aplicando semántica sólida para proporcionar una estructura sólida a la página web.
+* CSS3 (BEM):  Para la estilización a través de clases, asegurando un diseño visual consistente y mantenible.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-cr) 
