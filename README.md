@@ -1,16 +1,28 @@
-# 💫 About Me:
-  # Hello <br /> Im <span className='text-secondary'>Armando</span>
-  ## Front-End Web Developer
-  ### ¡Hola! Soy Armando, un desarrollo web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
+# Hola ! <br /> Soy Armando</span> 💫 
+### Front-End Web Developer
+Desarrollador web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
 
-# Last projects.
+# Experiencia Laboral
 
-## [Shopping Cart App](https://cart-shopping-app.netlify.app/) 
-Shopping Cart is a minimalist website with a shopping cart experience. Add to cart easily with an attractive design and manage your items without complications.
-### Made with:
-* React + Vite + TypeScript: UI library for rapid development and TypeScript for more secure and maintainable development.
-* Redux + Redux Toolkit: To manage the global state of the application, especially for the shopping cart.
-* React Router: To handle navigation between different pages and routes of the application.
+### Freelance Developer:
+He trabajado como desarrollador independiente con 3 años de experiencia en el emocionante mundo del desarrollo web. He desarrollado proyectos desde su concepción inicial hasta su implementación, utilizando tecnologías modernas y siguiendo las mejores prácticas para cumplir con los objetivos y las necesidades del cliente.
+
+### Desarrollador Front-End - Diciembre 2023 – Junio 2024 – Remoto
+Kyoshi – E Learning:
+* Proyecto: Desarrollo de una plataforma enfocada en capacitación y certificación en TI.
+* Responsabilidades: Diseño y mantenimiento de componentes UI responsivas y accesibles, gestión de roles de usuario y autenticación, Integración de APIs, Integración de tecnologías front-end y back-end, 
+* Tecnologías: Next JS, TailwindCSS, Flowbite, Framer Motion, Java, Spring Boot, SQL.
+* Resultado: Proyecto exitoso al cumplir con los requisitos del cliente, resultando en una plataforma funcional y atractiva. Fortaleció considerablemente mi dominio en el uso de Next JS y la integración de tecnologías front-end y back-end.
+
+# Proyectos Personales.
+
+### [Shopping Cart App](https://cart-shopping-app.netlify.app/) 
+Shopping Cart es una aplicacion web minimalista con una experiencia e-comerce. Añade al carrito fácilmente con un diseño atractivo y gestiona tus artículos sin complicaciones.
+#### Hecho con:
+* React + Vite + TypeScript: Biblioteca de interfaz de usuario para un desarrollo rápido y TypeScript para un desarrollo más seguro y fácil de mantener.
+* Redux + Redux Toolkit: Para gestionar el estado global de la aplicación, especialmente para el carrito de compras.
+* React Router: Para manejar la navegación entre diferentes páginas y rutas de la aplicación.
+* TailwindCss: Framework CSS para la estilización de paginas web.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-cr) 
