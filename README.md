@@ -1,13 +1,10 @@
-# Hey, ! <br /> soy armando</span> 💫 
+# Hey, soy armando
 ### Full-Stack Web Developer
 Desarrollador web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
 
 # 🖥️ Experiencia Laboral:
 
-### Freelance Developer:
-He trabajado como desarrollador independiente con 3 años de experiencia en el emocionante mundo del desarrollo web. He desarrollado proyectos desde su concepción inicial hasta su implementación, utilizando tecnologías modernas y siguiendo las mejores prácticas para cumplir con los objetivos y las necesidades del cliente.
-
-### Desarrollador Front-End - Diciembre 2023 – Junio 2024 – Remoto
+### Desarrollador Front-End - Diciembre 2023 – Diciembre 2024 – Remoto
 ### [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
 * Proyecto: Desarrollo de una plataforma enfocada en capacitación y certificación en TI.
 * Responsabilidades: Diseño y mantenimiento de componentes UI responsivas y accesibles, gestión de roles de usuario y autenticación, Integración de APIs, Integración de tecnologías front-end y back-end, 
