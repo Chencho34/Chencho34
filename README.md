@@ -1,5 +1,5 @@
-# Hola ! <br /> Soy Armando</span> 💫 
-### Front-End Web Developer
+# Hey, ! <br /> soy armando</span> 💫 
+### Full-Stack Web Developer
 Desarrollador web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
 
 # 🖥️ Experiencia Laboral:
