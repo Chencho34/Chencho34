@@ -1,6 +1,7 @@
 # Hey, soy armando
 ### Full-Stack Web Developer
-Desarrollador web autodidacta. Mi fascinación por la creación de sitios web comenzó como un hobby y ha evolucionado en una dedicación constante. Dispuesto a explorar continuamente nuevas tecnologías para mejorar mis habilidades.
+
+Desarrollador web con 4 años experiencia en la creación de interfaces de usuario eficientes y escalables, especializado en el uso de React / Next.js y tecnologías web modernas como Node.js, TypeScript y TailwindCSS. Me encanta trabajar en equipo en proyectos desafiantes que me permitan seguir desarrollando mis habilidades.
 
 # 🖥️ Experiencia Laboral:
 
