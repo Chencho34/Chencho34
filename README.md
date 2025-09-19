@@ -1,32 +1,34 @@
 # Hey, soy armando
 ### Full-Stack Web Developer
 
-Desarrollador web con 4 años experiencia en la creación de interfaces de usuario eficientes y escalables, especializado en el uso de React / Next.js y tecnologías web modernas como Node.js, TypeScript y TailwindCSS. Me encanta trabajar en equipo en proyectos desafiantes que me permitan seguir desarrollando mis habilidades.
+Desarrollador Full-Stack con 4+ años de experiencia en la creación de aplicaciones escalables, seguras y centradas en el usuario. Especializado en React.js/Next.js, Node.js/Express y TypeScript, con logros medibles como optimizar la velocidad de carga en un 40% y reducir errores de entrada en un 90% mediante APIs REST robustas y validaciones avanzadas. Comprometido con arquitecturas limpias, seguridad y eficiencia en el manejo de datos, así como colaborar en equipos ágiles/SCRUM para garantizar entregas continuas de valor al negocio y la construcción de productos digitales de impacto.
 
 # 🖥️ Experiencia Laboral:
 
-### Desarrollador Front-End - Diciembre 2023 – Diciembre 2024 – Remoto
+### Full-Stack Developer - Diciembre 2023 – Diciembre 2024
 ### [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
-* Proyecto: Desarrollo de una plataforma enfocada en capacitación y certificación en TI.
-* Responsabilidades: Diseño y mantenimiento de componentes UI responsivas y accesibles, gestión de roles de usuario y autenticación, Integración de APIs, Integración de tecnologías front-end y back-end, 
-* Tecnologías: Next JS, TailwindCSS, Flowbite, Framer Motion, Java, Spring Boot, SQL.
-* Resultado: Proyecto exitoso al cumplir con los requisitos del cliente, resultando en una plataforma funcional y atractiva. Fortaleció considerablemente mi dominio en el uso de Next JS y la integración de tecnologías front-end y back-end.
+*	Lideré el desarrollo de una plataforma de e-learning bajo metodologías ágiles/SCRUM cumpliendo el 100% de los sprints.
+*	Optimicé la experiencia de usuario (UX) mediante interfaces accesibles y de alto rendimiento con Next.js, Tailwind CSS y Framer Motion, mejorando la velocidad de carga en un 40% y logrando un score de 95+ en Lighthouse.
+*	Integré y aseguré APIs REST con Java, Spring Boot, JWT y MySQL, implementando un sistema de autenticación que resultó en 0 incidentes de seguridad durante el periodo de desarrollo.
+*	Mentoricé a 3 desarrolladores mediante pair programming y revisiones de código, mejorando la calidad del código y reduciendo bugs en producción en un 30%.
+
 
 # 📖 Proyectos Personales:
 
-### [Shopping Cart App](https://cart-shopping-app.netlify.app/) 
-Shopping Cart es una aplicacion web minimalista con una experiencia e-comerce. Añade al carrito fácilmente con un diseño atractivo y gestiona tus artículos sin complicaciones.
-#### Hecho con:
-* React + Vite + TypeScript: Biblioteca de interfaz de usuario para un desarrollo rápido y TypeScript para un desarrollo más seguro y fácil de mantener.
-* Redux + Redux Toolkit: Para gestionar el estado global de la aplicación, especialmente para el carrito de compras.
-* React Router: Para manejar la navegación entre diferentes páginas y rutas de la aplicación.
-* TailwindCSS: Framework CSS para la estilización de paginas web.
+### [Shopping App - UI](https://cart-shopping-app.netlify.app/) 
+* Desarrollé una aplicación e-commerce completa con interfaz 100% responsiva. 
+* **Stack**: Construí la UI con React, TypeScript, Redux Toolkit, TailwindCSS implementando un flujo completo de autenticación de usuarios y gestión de carrito de compras.
+* **Logro clave**: Diseñé un sistema modular y mantenible que simula el flujo completo de un carrito de compras, optimizado para una experiencia de usuario fluida.
 
-### [Landing Page KTM](https://github.com/Chencho34/ktm-web-page)
-Este proyecto se basa en el concepto de diseño inspirado en la página web oficial de KTM. Presenta una interfaz minimalista y moderna.
-#### Hecho con:
-* HTML5 (semantico): Aplicando semántica sólida para proporcionar una estructura sólida a la página web.
-* CSS3 (BEM):  Para la estilización a través de clases, asegurando un diseño visual consistente y mantenible.
+### [API REST - E-Commerce](https://github.com/Chencho34/shopping-cart-backend) 
+* Desarrollé una API REST enfocada en la gestión de usuarios, autenticación y operaciones de carrito de compras
+* **Stack**: Utilicé Node.js, TypeScript, Express, PostgreSQL, Sequelize, JWT, Docker
+* **Logro clave**: Arquitectura modular y mantenible, validación de datos que redujeron los errores de entrada en un 90%, middleware de autenticación, rutas protegidas, DTOs y esquemas para robustez y escalabilidad.
+
+### [Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
+* Implementé un sistema CRUD completo para la gestión de estudiantes, explorando el stack de Microsoft.
+* **Stack**: Utilicé .NET 8, Blazor Server, Entity Framework Core y SQL Server para crear una SPA con operaciones de creación, lectura, actualización y eliminación de datos.
+*	**Logro clave**: Logré un rendimiento eficiente y un diseño responsivo con Bootstrap, demostrando versatilidad para trabajar con diferentes tecnologías.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armando-cr) 
