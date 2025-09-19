@@ -5,8 +5,7 @@ Desarrollador Full-Stack con 4+ años de experiencia en la creación de aplicaci
 
 # 🖥️ Experiencia Laboral:
 
-### Full-Stack Developer - Diciembre 2023 – Diciembre 2024
-## Center Soft | CDMX 
+### Full-Stack Developer - Center Soft CDMX | Diciembre 2023 – Diciembre 2024 
 ### [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
 *	Lideré el desarrollo de una plataforma de e-learning bajo metodologías ágiles/SCRUM cumpliendo el 100% de los sprints.
 *	Optimicé la experiencia de usuario (UX) mediante interfaces accesibles y de alto rendimiento con Next.js, Tailwind CSS y Framer Motion, mejorando la velocidad de carga en un 40% y logrando un score de 95+ en Lighthouse.
