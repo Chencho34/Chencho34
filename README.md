@@ -11,7 +11,7 @@ Desarrollador especializado en construir aplicaciones web **escalables** y **opt
 
 ### 💻 Stack principal
 
-```javascript
+```js
 const stack = {
   frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS'],
   backend: ['Node.js', 'Express', 'Java', 'Spring Boot'],
@@ -22,24 +22,30 @@ const stack = {
 
 ### 🖥️ Experiencia Laboral:
 
-#### Full Stack Developer - Center Soft | CDMX (remoto)| 12/2023 – 12/2024 
+#### Full Stack Developer - Center Soft | CDMX (remoto) | 12/2023 – 12/2024 
 [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
-*	Lideré el desarrollo de una plataforma de e-learning bajo metodologías ágiles/SCRUM cumpliendo el 100% de los sprints.
-*	Optimicé la experiencia de usuario (UX) mediante interfaces accesibles y de alto rendimiento con Next.js, Tailwind CSS y Framer Motion, mejorando la velocidad de carga en un 40% y logrando un score de 95+ en Lighthouse.
-*	Integré y aseguré APIs REST con Java, Spring Boot, JWT y MySQL, implementando un sistema de autenticación que resultó en 0 incidentes de seguridad durante el periodo de desarrollo.
-*	Mentoricé a 3 desarrolladores mediante pair programming y revisiones de código, mejorando la calidad del código y reduciendo bugs en producción en un 30%.
+* Optimicé rendimiento frontend 40% implementando code splitting, lazy loading y optimización de assets con Next.js, TailwindCSS y Framer Motion. Alcancé score 95+ en Lighthouse.
+* Implementé sistema de autenticación seguro con Spring Boot, JWT y MySQL resultando en 0 incidentes de seguridad durante 12 meses en producción.
+* Desarrollé módulos completos bajo metodologías ágiles/SCRUM cumpliendo 100% de los sprints planificados.
+* Mentoricé a 3 desarrolladores mediante pair programming y code reviews, mejorando la calidad y reduciendo bugs en un 30%.
 
 ### 🎯 Proyectos destacados
 
-[Shopping App - UI](https://cart-shopping-app.netlify.app/) 
-* Desarrollé una aplicación e-commerce completa con interfaz 100% responsiva. 
-* **Stack**: Construí la UI con React, TypeScript, Redux Toolkit, TailwindCSS implementando un flujo completo de autenticación de usuarios y gestión de carrito de compras.
-* **Logro clave**: Diseñé un sistema modular y mantenible que simula el flujo completo de un carrito de compras, optimizado para una experiencia de usuario fluida.
+#### [Shopping App - UI](https://cart-shopping-app.netlify.app/)
+***React · TypeScript · Redux Toolkit · TailwindCSS***
+* Construí aplicación e-commerce 100% responsiva con gestión de estado compleja usando Redux Toolkit.
+* Implementé flujo completo de autenticación de usuarios y carrito de compras con persistencia.
+* Diseñé arquitectura de componentes modular y reutilizable siguiendo principios SOLID.
+* Optimicé renders con React.memo y useMemo para mantener performance en listas grandes.
+**Impacto:** Aplicación escalable que simula flujo real de e-commerce con UX optimizada.
 
-[API REST - E-Commerce](https://github.com/Chencho34/shopping-cart-backend) 
-* Desarrollé una API REST enfocada en la gestión de usuarios, autenticación y operaciones de carrito de compras
-* **Stack**: Utilicé Node.js, TypeScript, Express, PostgreSQL, Sequelize, JWT, Docker
-* **Logro clave**: Arquitectura modular y mantenible, validación de datos que redujeron los errores de entrada en un 90%, middleware de autenticación, rutas protegidas, DTOs y esquemas para robustez y escalabilidad.
+#### [API REST - E-Commerce](https://github.com/Chencho34/shopping-cart-backend)
+***Node.js · TypeScript · Express · Sequelize · JWT · Docker***
+* Desarrollé API REST completa con arquitectura modular y patrones de diseño (Repository, DTO)
+* Implementé autenticación JWT, middleware de validación, rutas protegidas y manejo robusto de errores
+* Integré Docker para entornos de desarrollo consistentes y deploy simplificado
+* Diseñé esquema de base de datos normalizado con Sequelize ORM
+**Impacto:** API lista para producción con validaciones avanzadas y seguridad implementada desde el diseño.
 
 [Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
 * Implementé un sistema CRUD completo para la gestión de estudiantes, explorando el stack de Microsoft.
