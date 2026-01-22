@@ -22,7 +22,7 @@ const stack = {
 
 ### 🖥️ Experiencia Laboral:
 
-**Full-Stack Developer - Center Soft CDMX | Diciembre 2023 – Diciembre 2024** 
+#### Full Stack Developer - Center Soft | CDMX (remoto)| 12/2023 – 12/2024 
 [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
 *	Lideré el desarrollo de una plataforma de e-learning bajo metodologías ágiles/SCRUM cumpliendo el 100% de los sprints.
 *	Optimicé la experiencia de usuario (UX) mediante interfaces accesibles y de alto rendimiento con Next.js, Tailwind CSS y Framer Motion, mejorando la velocidad de carga en un 40% y logrando un score de 95+ en Lighthouse.
@@ -31,17 +31,17 @@ const stack = {
 
 ### 🎯 Proyectos destacados
 
-#### [Shopping App - UI](https://cart-shopping-app.netlify.app/) 
+[Shopping App - UI](https://cart-shopping-app.netlify.app/) 
 * Desarrollé una aplicación e-commerce completa con interfaz 100% responsiva. 
 * **Stack**: Construí la UI con React, TypeScript, Redux Toolkit, TailwindCSS implementando un flujo completo de autenticación de usuarios y gestión de carrito de compras.
 * **Logro clave**: Diseñé un sistema modular y mantenible que simula el flujo completo de un carrito de compras, optimizado para una experiencia de usuario fluida.
 
-#### [API REST - E-Commerce](https://github.com/Chencho34/shopping-cart-backend) 
+[API REST - E-Commerce](https://github.com/Chencho34/shopping-cart-backend) 
 * Desarrollé una API REST enfocada en la gestión de usuarios, autenticación y operaciones de carrito de compras
 * **Stack**: Utilicé Node.js, TypeScript, Express, PostgreSQL, Sequelize, JWT, Docker
 * **Logro clave**: Arquitectura modular y mantenible, validación de datos que redujeron los errores de entrada en un 90%, middleware de autenticación, rutas protegidas, DTOs y esquemas para robustez y escalabilidad.
 
-#### [Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
+[Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
 * Implementé un sistema CRUD completo para la gestión de estudiantes, explorando el stack de Microsoft.
 * **Stack**: Utilicé .NET 8, Blazor Server, Entity Framework Core y SQL Server para crear una SPA con operaciones de creación, lectura, actualización y eliminación de datos.
 *	**Logro clave**: Logré un rendimiento eficiente y un diseño responsivo con Bootstrap, demostrando versatilidad para trabajar con diferentes tecnologías.
@@ -51,7 +51,7 @@ const stack = {
 - 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
 - 📧 armandocrescencio343@gmail.com
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chencho34&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
