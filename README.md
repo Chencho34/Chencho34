@@ -47,14 +47,14 @@ const stack = {
 * Diseñé esquema de base de datos normalizado con Sequelize ORM
 **Impacto:** API lista para producción con validaciones avanzadas y seguridad implementada desde el diseño.
 
-[Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
+#### [Students Control – Blazor App](https://github.com/Chencho34/PruebaCRUD) 
 * Implementé un sistema CRUD completo para la gestión de estudiantes, explorando el stack de Microsoft.
 * **Stack**: Utilicé .NET 8, Blazor Server, Entity Framework Core y SQL Server para crear una SPA con operaciones de creación, lectura, actualización y eliminación de datos.
 *	**Logro clave**: Logré un rendimiento eficiente y un diseño responsivo con Bootstrap, demostrando versatilidad para trabajar con diferentes tecnologías.
 
 ### 🔗 Links
 - 🌐 [Portfolio](https://portfolio-astro-2025-ten.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/armando-cr/)
 - 📧 armandocrescencio343@gmail.com
 
 ### 📊 GitHub Stats:
