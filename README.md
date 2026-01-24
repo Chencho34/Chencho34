@@ -29,10 +29,12 @@ const stack = {
 
 ### Full Stack Developer - Center Soft | CDMX (remoto) | 12/2023 – 12/2024 
 [Kyoshi E-Learning](https://www.kyoshi.com.mx/)
-* Optimicé rendimiento frontend 40% implementando code splitting, lazy loading y optimización de assets con Next.js, TailwindCSS y Framer Motion. Alcancé score 95+ en Lighthouse.
-* Implementé sistema de autenticación seguro con Spring Boot, JWT y MySQL resultando en 0 incidentes de seguridad durante 12 meses en producción.
-* Desarrollé módulos completos bajo metodologías ágiles/SCRUM cumpliendo 100% de los sprints planificados.
-* Mentoricé a 3 desarrolladores mediante pair programming y code reviews, mejorando la calidad y reduciendo bugs en un 30%.
+
+- Desarrollé desde cero una plataforma e-learning escalable con Next.js, TypeScript, Java, Spring Boot y MySQL.
+- Implementé sistema de autenticación seguro con JWT, gestion de usuarios y control de acceso basado en roles.
+- Construí interfaces responsivas y optimizadas aplicando lazy loading y code splitting, reduciendo el tiempo de carga inicial de 6 a 2 segundos (mejora del 67%).
+- Integré Redux Toolkit y Axios para gestión de estado y consumo de APIs RESTful, desarrollando formularios con React Hook Form que redujeron errores en 30%.
+- Trabajé con Scrum/Kanban en Jira, realizando code reviews y refactorización que redujeron bugs en 35%, desplegando continuamente en Vercel.
 
 ## 🔥 Proyectos Destacados
 
@@ -71,6 +73,8 @@ Aplicación de e-commerce completa con carrito de compras, autenticación y gest
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandocrescencio343@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-astro-2025-ten.vercel.app/)
 
+---
+
 <div align="center">
   
 **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
@@ -78,12 +82,3 @@ Aplicación de e-commerce completa con carrito de compras, autenticación y gest
 ⭐️ De [Chencho34](https://github.com/Chencho34)
 
 </div>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chencho34&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Chencho34&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
