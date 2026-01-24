@@ -54,15 +54,22 @@ Aplicación de e-commerce completa con carrito de compras, autenticación y gest
 
 **Tech Stack:** React · TypeScript · Redux · Node.js · Express · PostgreSQL · Docker · JWT
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chencho34&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chencho34&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-cr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandocrescencio343@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-astro-2025-ten.vercel.app/)
-
----
 
 <div align="center">
   
