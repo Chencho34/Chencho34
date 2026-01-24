@@ -66,7 +66,6 @@ Aplicación de e-commerce completa con carrito de compras, autenticación y gest
 
 </div>
 
-
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-cr/)
