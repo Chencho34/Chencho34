@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#03050D"/>
+      <stop offset="60%" style="stop-color:#050810"/>
+      <stop offset="100%" style="stop-color:#070512"/>
+    </linearGradient>
+    <radialGradient id="g1b" cx="72%" cy="45%" r="40%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="g1p" cx="88%" cy="25%" r="32%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.16"/>
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="g1c" cx="18%" cy="65%" r="28%">
+      <stop offset="0%" style="stop-color:#22D3EE;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="glow1a">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow1b">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow1t">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c1"><rect width="1500" height="500"/></clipPath>
+  </defs>
+  <g clip-path="url(#c1)">
+    <rect width="1500" height="500" fill="url(#bg1)"/>
+    <rect width="1500" height="500" fill="url(#g1b)"/>
+    <rect width="1500" height="500" fill="url(#g1p)"/>
+    <rect width="1500" height="500" fill="url(#g1c)"/>
+
+    <!-- Fine dot grid -->
+    <g fill="#3B82F6" opacity="0.08">
+      <g id="drow">
+        <circle cx="100" cy="0" r="1"/><circle cx="200" cy="0" r="1"/><circle cx="300" cy="0" r="1"/>
+        <circle cx="400" cy="0" r="1"/><circle cx="500" cy="0" r="1"/><circle cx="600" cy="0" r="1"/>
+        <circle cx="700" cy="0" r="1"/><circle cx="800" cy="0" r="1"/><circle cx="900" cy="0" r="1"/>
+        <circle cx="1000" cy="0" r="1"/><circle cx="1100" cy="0" r="1"/><circle cx="1200" cy="0" r="1"/>
+        <circle cx="1300" cy="0" r="1"/><circle cx="1400" cy="0" r="1"/>
+      </g>
+      <use href="#drow" y="62"/><use href="#drow" y="125"/><use href="#drow" y="187"/>
+      <use href="#drow" y="250"/><use href="#drow" y="312"/><use href="#drow" y="375"/>
+      <use href="#drow" y="437"/>
+    </g>
+
+    <!-- Network lines - blue layer -->
+    <g stroke="#3B82F6" stroke-width="0.8" opacity="0.30" fill="none">
+      <line x1="950" y1="120" x2="1110" y2="72"/><line x1="1110" y1="72" x2="1270" y2="135"/>
+      <line x1="1270" y1="135" x2="1390" y2="95"/><line x1="950" y1="120" x2="1025" y2="248"/>
+      <line x1="1025" y1="248" x2="1190" y2="215"/><line x1="1190" y1="215" x2="1330" y2="258"/>
+      <line x1="1330" y1="258" x2="1450" y2="195"/><line x1="1025" y1="248" x2="985" y2="372"/>
+      <line x1="985" y1="372" x2="1140" y2="342"/><line x1="1140" y1="342" x2="1290" y2="378"/>
+      <line x1="1290" y1="378" x2="1425" y2="328"/><line x1="1110" y1="72" x2="1190" y2="215"/>
+      <line x1="1270" y1="135" x2="1330" y2="258"/><line x1="1190" y1="215" x2="1140" y2="342"/>
+      <line x1="1330" y1="258" x2="1290" y2="378"/><line x1="1390" y1="95" x2="1450" y2="195"/>
+      <line x1="1450" y1="195" x2="1425" y2="328"/>
+    </g>
+    <!-- Cyan secondary -->
+    <g stroke="#22D3EE" stroke-width="0.7" opacity="0.22" fill="none">
+      <line x1="1060" y1="168" x2="1210" y2="148"/><line x1="1210" y1="148" x2="1360" y2="175"/>
+      <line x1="1360" y1="175" x2="1465" y2="148"/><line x1="1060" y1="168" x2="1095" y2="298"/>
+      <line x1="1095" y1="298" x2="1255" y2="285"/><line x1="1255" y1="285" x2="1395" y2="308"/>
+    </g>
+    <!-- Purple tertiary -->
+    <g stroke="#8B5CF6" stroke-width="0.7" opacity="0.24" fill="none">
+      <line x1="975" y1="195" x2="1148" y2="178"/><line x1="1148" y1="178" x2="1300" y2="208"/>
+      <line x1="1300" y1="208" x2="1415" y2="168"/><line x1="1148" y1="178" x2="1155" y2="312"/>
+      <line x1="1155" y1="312" x2="1308" y2="352"/>
+    </g>
+
+    <!-- Halo rings around key nodes (glow effect) -->
+    <circle cx="1110" cy="72" r="14" fill="none" stroke="#3B82F6" stroke-width="0.5" opacity="0.20"/>
+    <circle cx="1110" cy="72" r="22" fill="none" stroke="#3B82F6" stroke-width="0.3" opacity="0.10"/>
+    <circle cx="1210" cy="148" r="12" fill="none" stroke="#22D3EE" stroke-width="0.5" opacity="0.20"/>
+    <circle cx="1148" cy="178" r="12" fill="none" stroke="#8B5CF6" stroke-width="0.5" opacity="0.20"/>
+    <circle cx="1290" cy="378" r="10" fill="none" stroke="#3B82F6" stroke-width="0.5" opacity="0.18"/>
+
+    <!-- Nodes - blue -->
+    <circle cx="950" cy="120" r="5" fill="#3B82F6" opacity="0.95" filter="url(#glow1a)"/>
+    <circle cx="1110" cy="72" r="8" fill="#3B82F6" opacity="1" filter="url(#glow1b)"/>
+    <circle cx="1270" cy="135" r="5.5" fill="#3B82F6" opacity="0.95" filter="url(#glow1a)"/>
+    <circle cx="1390" cy="95" r="4.5" fill="#3B82F6" opacity="0.9" filter="url(#glow1a)"/>
+    <circle cx="1025" cy="248" r="6.5" fill="#3B82F6" opacity="0.95" filter="url(#glow1a)"/>
+    <circle cx="1190" cy="215" r="5" fill="#3B82F6" opacity="0.85"/>
+    <circle cx="1330" cy="258" r="6.5" fill="#3B82F6" opacity="0.95" filter="url(#glow1a)"/>
+    <circle cx="1450" cy="195" r="4.5" fill="#3B82F6" opacity="0.8"/>
+    <circle cx="985" cy="372" r="5" fill="#3B82F6" opacity="0.85"/>
+    <circle cx="1140" cy="342" r="4.5" fill="#3B82F6" opacity="0.8"/>
+    <circle cx="1290" cy="378" r="5.5" fill="#3B82F6" opacity="0.9" filter="url(#glow1a)"/>
+    <circle cx="1425" cy="328" r="4" fill="#3B82F6" opacity="0.75"/>
+    <!-- Nodes - cyan -->
+    <circle cx="1060" cy="168" r="5" fill="#22D3EE" opacity="0.95" filter="url(#glow1a)"/>
+    <circle cx="1210" cy="148" r="6" fill="#22D3EE" opacity="1" filter="url(#glow1b)"/>
+    <circle cx="1360" cy="175" r="4" fill="#22D3EE" opacity="0.85"/>
+    <circle cx="1465" cy="148" r="3.5" fill="#22D3EE" opacity="0.75"/>
+    <circle cx="1095" cy="298" r="4.5" fill="#22D3EE" opacity="0.8"/>
+    <circle cx="1255" cy="285" r="5" fill="#22D3EE" opacity="0.9" filter="url(#glow1a)"/>
+    <circle cx="1395" cy="308" r="3.5" fill="#22D3EE" opacity="0.75"/>
+    <!-- Nodes - purple -->
+    <circle cx="975" cy="195" r="5" fill="#8B5CF6" opacity="0.9" filter="url(#glow1a)"/>
+    <circle cx="1148" cy="178" r="6" fill="#8B5CF6" opacity="1" filter="url(#glow1b)"/>
+    <circle cx="1300" cy="208" r="4.5" fill="#8B5CF6" opacity="0.85"/>
+    <circle cx="1415" cy="168" r="4" fill="#8B5CF6" opacity="0.8"/>
+    <circle cx="1155" cy="312" r="4.5" fill="#8B5CF6" opacity="0.8"/>
+    <circle cx="1308" cy="352" r="4" fill="#8B5CF6" opacity="0.75"/>
+
+    <!-- Code symbols -->
+    <g font-family="'Courier New',monospace" fill="#3B82F6" opacity="0.16" font-size="13">
+      <text x="1015" y="108">&lt;/&gt;</text><text x="1178" y="402">{ }</text>
+      <text x="1345" y="88">{ }</text><text x="1445" y="362">=&gt;</text>
+      <text x="958" y="312">&lt;/&gt;</text><text x="1480" y="258">&lt;/&gt;</text>
+    </g>
+    <g font-family="'Courier New',monospace" fill="#22D3EE" opacity="0.13" font-size="11">
+      <text x="1082" y="228">import</text><text x="1225" y="322">export</text>
+      <text x="1392" y="248">return</text><text x="1052" y="422">interface</text>
+    </g>
+    <g font-family="'Courier New',monospace" fill="#8B5CF6" opacity="0.13" font-size="10">
+      <text x="1162" y="268">Promise&lt;T&gt;</text><text x="1315" y="128">extends</text><text x="1035" y="352">useEffect</text>
+    </g>
+
+    <!-- Border accents -->
+    <line x1="0" y1="0" x2="1500" y2="0" stroke="#3B82F6" stroke-width="2.5" opacity="0.95"/>
+    <line x1="0" y1="499" x2="1500" y2="499" stroke="#3B82F6" stroke-width="1" opacity="0.25"/>
+    <line x1="68" y1="78" x2="68" y2="422" stroke="#3B82F6" stroke-width="1" opacity="0.55"/>
+    <rect x="63" y="74" width="9" height="9" fill="#3B82F6" opacity="1" rx="1" filter="url(#glow1a)"/>
+    <rect x="63" y="418" width="9" height="9" fill="#22D3EE" opacity="0.9" rx="1" filter="url(#glow1a)"/>
+
+    <!-- Status -->
+    <rect x="88" y="88" width="148" height="24" rx="4" fill="#3B82F6" opacity="0.10" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.4"/>
+    <circle cx="102" cy="100" r="4" fill="#22D3EE" opacity="1" filter="url(#glow1a)"/>
+    <circle cx="102" cy="100" r="7" fill="none" stroke="#22D3EE" stroke-width="0.6" opacity="0.4"/>
+    <text x="115" y="105" font-family="'SF Mono','Fira Code',monospace" font-size="11" fill="#22D3EE" opacity="0.9" font-weight="500" letter-spacing="1.5">AVAILABLE</text>
+
+    <!-- Name -->
+    <text x="88" y="190" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="#FFFFFF" letter-spacing="-1" opacity="0.97" filter="url(#glow1t)">Armando</text>
+    <text x="88" y="190" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="#3B82F6" letter-spacing="-1" opacity="0.22">Armando</text>
+
+    <!-- Role -->
+    <text x="92" y="230" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="300" fill="#60A5FA" letter-spacing="4">FULL STACK DEVELOPER</text>
+
+    <!-- Divider -->
+    <line x1="88" y1="254" x2="580" y2="254" stroke="#0F1A30" stroke-width="0.8"/>
+    <line x1="88" y1="254" x2="230" y2="254" stroke="#3B82F6" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="230" cy="254" r="3" fill="#3B82F6" opacity="1" filter="url(#glow1a)"/>
+
+    <!-- Tagline -->
+    <text x="88" y="285" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="300" fill="#64748B" letter-spacing="0.5">Building scalable &amp; high-performance web applications</text>
+
+    <!-- Badges -->
+    <rect x="88" y="315" width="90" height="30" rx="4" fill="#050810" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.7"/>
+    <text x="133" y="335" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#60A5FA" text-anchor="middle" letter-spacing="1">React</text>
+    <rect x="190" y="315" width="90" height="30" rx="4" fill="#050810" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.7"/>
+    <text x="235" y="335" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#67E8F9" text-anchor="middle" letter-spacing="1">Node.js</text>
+    <rect x="292" y="315" width="115" height="30" rx="4" fill="#050810" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.7"/>
+    <text x="349" y="335" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="500" fill="#A78BFA" text-anchor="middle" letter-spacing="1">TypeScript</text>
+
+    <!-- Focus tags -->
+    <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11" fill="#334155">
+      <text x="92" y="385">Performance · Scalability · Clean Code · Architecture</text>
+    </g>
+
+    <!-- Bottom -->
+    <g stroke="#0F1A30" stroke-width="0.6" opacity="0.8">
+      <line x1="88" y1="443" x2="180" y2="443"/>
+      <line x1="188" y1="443" x2="280" y2="443"/>
+      <line x1="288" y1="443" x2="380" y2="443"/>
+    </g>
+    <circle cx="184" cy="443" r="2.5" fill="#3B82F6" opacity="0.8" filter="url(#glow1a)"/>
+    <circle cx="284" cy="443" r="2.5" fill="#22D3EE" opacity="0.8" filter="url(#glow1a)"/>
+
+    <text x="1030" y="490" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#0F1A30" opacity="1" letter-spacing="2">SYS_ARCH_v2.4.1 // DARK_MAX</text>
+    <g font-family="'SF Mono','Fira Code',monospace" font-size="10" opacity="0.28">
+      <text x="1340" y="22" fill="#22D3EE" letter-spacing="1">// engineer.profile</text>
+      <text x="1340" y="37" fill="#60A5FA">focus: <tspan fill="#475569">performance</tspan></text>
+      <text x="1340" y="52" fill="#60A5FA">stack: <tspan fill="#475569">full_stack</tspan></text>
+    </g>
+  </g>
+</svg>
