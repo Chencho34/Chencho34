@@ -1,3 +1,5 @@
+![banner](./banner.svg)
+
 # Hey, soy Armando 👋
 
 **Ingeniero Informático & Full Stack Developer | React · Node.js · TypeScript**
